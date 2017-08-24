@@ -1,0 +1,8 @@
+/**
+ * Created by lxw on 2017/8/24.
+ */
+public class HelloIntellij {
+    public static void  main(String[] args) {
+        System.out.println("I Love My wife Dada");
+    }
+}
